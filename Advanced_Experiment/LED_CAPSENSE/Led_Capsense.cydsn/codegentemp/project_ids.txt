@@ -1,0 +1,5 @@
+E:\Psoc\Advanced_Experiment\LED_CAPSENSE\Led_Capsense.cydsn\Led_Capsense.cyprj|792194a9-05b3-482c-a1c9-7e490896e57b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ecc7ec9c-d39b-452c-b846-5c557f2b70ee
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|4875dfb2-9bac-485e-830e-c12d9ef05d32
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|02a2a11a-6a3c-459f-97fb-b2cfe0d5392d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c12a6c42-94a5-4363-9cce-c7ef90021ebb
